@@ -1,0 +1,52 @@
+# Syntis Bio
+
+> Clinical-stage biopharmaceutical company in Boston, Massachusetts developing oral therapies
+> that use the small intestine as a delivery site. Syntis Bio publishes no public API, developer
+> program, SDK, or machine-readable specification.
+
+<!-- generated: 2026-08-29 -->
+<!-- method: generated -->
+<!-- source: apis.yml + api-evangelist enrichment pass 2026-08-29 (searched/probed syntis.bio) -->
+
+Syntis Bio's SYNT platform (Synthetic Tissue-lining) applies a mussel-inspired polydopamine
+polymer coating transiently to specific tissues in the GI tract, sustaining therapeutic activity
+for up to 24 hours before natural clearance. It is applied to nutrient exclusion for obesity,
+gut-restricted enzyme replacement for rare metabolic disorders (homocystinuria, maple syrup urine
+disease), and oral bioavailability enhancement for peptides and biologics. Lead candidate SYNT-101
+is a once-daily oral pill. The company was co-founded in 2022 by MIT's Robert Langer and Giovanni
+Traverso, with CEO Rahul Dhanda.
+
+## API surface
+
+There is none. A 2026-08-29 enrichment pass probed syntis.bio for /openapi.json, /openapi.yaml,
+/swagger.json, /v1/openapi.json, /api-docs, /docs, /redoc, /graphql, /llms.txt and the full
+/.well-known/ set (security.txt, openid-configuration, oauth-authorization-server,
+oauth-protected-resource, api-catalog, ai-plugin.json, agent-card.json, agent.json). Every path
+returned 404. No api., developer., docs. or portal. subdomain resolves. No GitHub organization
+exists under syntis-bio or syntisbio. The only machine-readable surface on the domain is the
+WordPress core REST index at https://syntis.bio/wp-json/ , which is CMS content delivery, not a
+product API, and is not cataloged as one.
+
+## Company
+
+- Website: https://syntis.bio/
+- About: https://syntis.bio/about/
+- Science (SYNT platform): https://syntis.bio/science/
+- Pipeline: https://syntis.bio/pipeline/
+- News: https://syntis.bio/news/
+- News feed (RSS): https://syntis.bio/feed/
+- Partnering: https://syntis.bio/partnering/
+- Careers: https://syntis.bio/careers/
+
+## Policies
+
+- Privacy Policy: https://syntis.bio/privacy-policy/
+- Terms of Use: https://syntis.bio/terms-of-use/
+- FCOI Policy: https://syntis.bio/fcoi-policy/
+
+## Contact
+
+- Email: info@syntis.bio
+- Address: 135 Morrissey Boulevard, Suite 101A, Boston, MA 02125
+- LinkedIn: https://www.linkedin.com/company/syntis-bio/
+- X: https://x.com/syntisbio
