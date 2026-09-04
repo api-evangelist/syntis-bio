@@ -12,6 +12,18 @@ description: >-
   nutrient absorption in the duodenum. The company was co-founded in 2022 by MIT's Robert Langer and
   Giovanni Traverso with CEO Rahul Dhanda. Syntis Bio is a therapeutics developer and publishes no
   public API, developer program, SDK, or machine-readable specification.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://syntis.bio/wp-content/uploads/2024/06/logo-header.svg
 url: https://raw.githubusercontent.com/api-evangelist/syntis-bio/refs/heads/main/apis.yml
 x-type: company
