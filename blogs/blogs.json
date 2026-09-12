@@ -2,6 +2,13 @@
   "repo": "syntis-bio",
   "feeds": [
     {
+      "source": "https://syntis.bio/news/",
+      "feed_url": "https://syntis.bio/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://syntis.bio/about/",
       "feed_url": "https://syntis.bio/about/feed/",
       "title": "",
@@ -9,13 +16,20 @@
       "method": "discovered"
     },
     {
-      "source": "https://syntis.bio/news/",
+      "source": "https://syntis.bio/news/feed/",
       "feed_url": "https://syntis.bio/news/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
+    },
+    {
+      "source": "https://syntis.bio/about/feed/",
+      "feed_url": "https://syntis.bio/about/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-09-06T19:17:18Z"
 }
